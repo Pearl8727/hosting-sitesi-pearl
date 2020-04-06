@@ -1,0 +1,93 @@
+.alternate {
+	background: #f1f1f1;
+}
+
+.anchors {
+	margin: 10px 20px 10px 20px;
+}
+
+.available-theme {
+	width: 30%;
+	margin: 0 1em;
+	float: left;
+	text-align: center;
+	height: 28em;
+	overflow: hidden;
+}
+
+.available-theme a.screenshot {
+	width: 250px;
+	height: 200px;
+	display: block;
+	margin: auto;
+	background: #f1f1f1;
+	border: 1px solid #ccc;
+	margin-bottom: 10px;
+	overflow: hidden;
+}
+
+.available-theme a.screenshot:hover {
+	border: 1px solid #666;
+}
+
+.available-theme img {
+	width: 100%;
+}
+
+.widefat {
+	width: 100%;
+}
+
+.widefat td, .widefat th {
+	padding: 5px 6px;
+}
+
+.widefat th {
+	text-align: left;
+}
+
+thead, .thead {
+	background: #dfdfdf
+}
+
+input:focus, textarea:focus, label:focus {
+	background: #fff;
+	border: 1px solid #686868;
+}
+
+textarea, input, select {
+	background: #F4f4f4;
+	border: 1px solid #b2b2b2;
+	color: #000;
+	font: 11px Verdana, Arial, Helvetica, sans-serif;
+	margin: 1px;
+	padding: 1px;
+}
+
+textarea.all-options, input.all-options {
+	width: 250px;
+}
+
+input.disabled, textarea.disabled {
+	background: #ccc;
+}
+
+#attachmentlinks textarea {
+	width: 100%;
+	height: 2.5em;
+	margin-bottom: 6px;
+}
+
+#postcustom table input, #postcustom table textarea {
+	width: 95%;
+}
+
+#template textarea {
+	font: small 'Courier New', Courier, monospace;
+	width: 97%;
+}
+
+#your-profile fieldset textarea {
+	width: 100%;
+	padding: 2px;
+}

@@ -1,0 +1,33 @@
+Panelinizden boþ bir veritabaný oluþturun.
+
+Ardýndan database klasörünün içindeki "SQL-HostingTakip.sql" dosyasýný oluþturduðunuz
+boþ veritabanýnýn içine aktarýn (yükleyin).
+
+Daha sonra ftp dosyalarýndaki config.php dosyasýndan veritabaný ile baðlantýyý kurun.
+
+
+
+
+
+DÝKKAT!
+Müþteri paneli ve yönetici paneli için farklý 2 config.php dosyasý vardýr.
+Biri /admin klasörü içinde diðeri ise ana dizindedir. Ýkisini de ayný veritabanýna baðlayýnýz.
+
+
+
+
+
+Varsayýlan admin Bilgileri:
+Kullanýcý adý  : admin
+Parola         : demo
+
+Yönetici paneline giriþ yaptýktan sonra alt taraftaki "Yönetici Bilgileri" butonu ile kullanýcý adý ve þifrenizi deðiþtirebilirsiniz..
+
+
+
+
+Varsayýlan Demo Müþteri Bilgileri:
+Kullanýcý adý  : musteri@hostingtakip.com
+Parola         : demo
+
+

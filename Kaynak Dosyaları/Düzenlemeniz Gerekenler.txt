@@ -1,0 +1,32 @@
+Aþaðýda yazan tüm deðiþiklikler müþteri paneli bölümü içindir. Yönetici paneli için deðiþiklik yapmayýnýz.
+
+
+1.) "images/logotakip.png"   - firmanýzýn logosunu yerleþtiriniz. Boyut sýnýrlamasý yoktur, ayný isimde olmak þartýyla istediðiniz boyutta logonuzu koyabilirsiniz...
+
+2.) "banka.php"   - firmanýzýn banka bilgilerini giriniz...
+
+3.) "siparis-add.php"   - "Hizmet Sözleþmesi" linkine kendi sözleþmenizi iliþkilendirin...
+
+4.) "siparis-add.php"   - "Önemli Uyarýlar" bölümünü kendinize göre düzenleyin...
+
+6.) "bildirim-add.php"   - 370.satýrdaki ödeme bildirim bankalarýný kendinize göre düzenleyin...
+
+7.) "iletisim.php"   - firmanýza göre iletiþim bilgilerini bu sayfaya ekleyiniz...
+
+8.) Dilerseniz "Kaynak Dosyalarý" klasöründe verilen imaj (images) dosyalarýný da kendinize göre düzenleyerek kullanabilirsiniz...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Teknoder Web Studio
+www.teknoder.com
